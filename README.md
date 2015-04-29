@@ -20,7 +20,6 @@ Include the following in your script:
 
 ## Todo's:
 - General enhancement (css, calculations on position etc.)
--
 - Improve contributing document
 
 
