@@ -1,0 +1,22 @@
+{
+  "name": "plaxy",
+  "version": "0.0.1",
+  "decription": "A simple, lightweight jQuery parallax scrolling plugin",
+  "homepage": "https://github.com/chrisvanmook/plaxy",
+  "authors": [
+    "Chris van Mook <chrisvanmook@gmail.com>"
+  ],
+  "main": "dist/plaxy.min.js",
+  "keywords": [
+    "parallax",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

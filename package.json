@@ -1,6 +1,6 @@
 {
   "name": "plaxy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple, lightweight jQuery parallax scrolling plugin",
   "main": "gulpfile.js",
   "scripts": {
