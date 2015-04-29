@@ -1,0 +1,33 @@
+{
+  "name": "plaxy",
+  "version": "0.0.0",
+  "description": "A simple, lightweight jQuery parallax scrolling plugin",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisvanmook/plaxy.git"
+  },
+  "keywords": [
+    "parallax",
+    "jquery"
+  ],
+  "author": "Chris van Mook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisvanmook/plaxy/issues"
+  },
+  "homepage": "https://github.com/chrisvanmook/plaxy",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.2.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-css": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^1.3.3",
+    "gulp-uglify": "^1.2.0"
+  }
+}

@@ -1,0 +1,25 @@
+.parallax{
+  height: 600px;
+  position: relative;
+  background-image: url("../demo/image.jpg");
+  background-size: cover;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+
+  //todo: mediaqueries
+}
+
+.parallax__content{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 50%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transform: translateY(-65%);
+}
+
+.dummy-content{
+  min-height: 1200px;
+}

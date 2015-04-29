@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="../dist/plaxy.min.js"></script>
+    <link rel="stylesheet" href="../dist/plaxy.min.css"/>
+    <script>
+        $(document).ready(function () {
+            $('.parallax').Plaxy({
+              speed: 1
+            });
+        });
+    </script>
+</head>
+<body>
+<div class="parallax">
+    <div class="parallax__content"></div>
+</div><div class="parallax">
+    <div class="parallax__content"></div>
+</div>
+<div class="dummy-content"></div>
+</body>
+</html>
